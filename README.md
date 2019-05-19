@@ -9,3 +9,5 @@ git submodule add git://github.com/ralphbrooks/ralphbrooks.github.io.git public
 
 This whole thing has the goal of deploying to the github page.
 
+Remove of workspace.xml
+
