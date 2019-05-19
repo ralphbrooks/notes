@@ -1,3 +1,10 @@
-baseURL = "http://example.org/"
+baseURL = "https://ralphbrooks.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Ralph Brooks"
+theme = "berbera"
+
+pygmentsCodeFences=true
+pygmentsUseClasses=true
+canonifyURLs=true
+publishDir="docs"
+disableKinds = ["section", "taxonomy", "taxonomyTerm"]
