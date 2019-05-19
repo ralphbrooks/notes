@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84cd9d8f-ef32-4130-9bdd-b9114cd76d35" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/content/about/ralph_brooks.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/CNAME" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/favicon.ico" afterDir="false" />
+    <list default="true" id="84cd9d8f-ef32-4130-9bdd-b9114cd76d35" name="Default Changelist" comment="Adding the red icon">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/archetypes/default.md" beforeDir="false" afterPath="$PROJECT_DIR$/archetypes/default.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/config.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/static/CNAME" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -42,8 +37,8 @@
       <file leaf-file-name="config.toml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config.toml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="102">
+              <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -72,11 +67,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CNAME" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CNAME" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/static/CNAME">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -90,7 +85,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="setting_environment_variables_from_script.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="setting_environment_variables_from_script.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/content/linux/environment/setting_environment_variables_from_script.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -98,6 +93,15 @@
                 <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="baseof.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/berbera/layouts/_default/baseof.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="54" column="39" lean-forward="true" selection-start-line="54" selection-start-column="39" selection-end-line="54" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -113,6 +117,12 @@
     </option>
     <option name="SCHEME" value="Project" />
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Chris</find>
+      <find>ralphbrooks</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -123,8 +133,10 @@
         <option value="$PROJECT_DIR$/deploy.sh" />
         <option value="$PROJECT_DIR$/archetypes/default.md" />
         <option value="$PROJECT_DIR$/content/about/ralph_brooks.md" />
-        <option value="$PROJECT_DIR$/static/CNAME" />
         <option value="$PROJECT_DIR$/static/LICENSE.txt" />
+        <option value="$PROJECT_DIR$/themes/berbera/layouts/_default/baseof.html" />
+        <option value="$PROJECT_DIR$/config.toml" />
+        <option value="$PROJECT_DIR$/static/CNAME" />
       </list>
     </option>
   </component>
@@ -138,9 +150,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1294" />
-    <option name="height" value="953" />
+    <option name="x" value="-1087" />
+    <option name="y" value="-1080" />
+    <option name="width" value="1521" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -229,14 +242,28 @@
       <option name="project" value="LOCAL" />
       <updated>1558286755826</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Adding the red icon">
+      <created>1558297856512</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1558297856512</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Adding the red icon">
+      <created>1558298095893</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1558298095893</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
     <option name="totallyTimeSpent" value="3323000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1087" y="-1080" width="1294" height="1047" extended-state="0" />
+    <frame x="-1087" y="-1080" width="1521" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -247,20 +274,34 @@
       <window_info anchor="bottom" id="Python Console" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="right" id="Remote Host" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.271518" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23056479" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="SciView" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.329849" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29233226" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,7 +313,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Second commit" />
     <MESSAGE value="Adding hugo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding hugo" />
+    <MESSAGE value="Adding the red icon" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding the red icon" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/content/linux/environment/test.md">
@@ -311,13 +353,6 @@
     <entry file="file://$PROJECT_DIR$/themes/berbera/static/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-306" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.toml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config.toml">
@@ -366,13 +401,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/CNAME">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/LICENSE.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -394,6 +422,27 @@
             <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/berbera/layouts/_default/baseof.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="54" column="39" lean-forward="true" selection-start-line="54" selection-start-column="39" selection-end-line="54" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.toml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
