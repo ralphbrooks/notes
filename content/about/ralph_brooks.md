@@ -4,7 +4,7 @@ author: "Ralph Brooks"
 date: 5/19/2019
 description: "About Ralph Brooks."
 type: technical_note
-draft: true
+draft: false
 outputs:
     - html
 ---
