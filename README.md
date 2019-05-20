@@ -5,7 +5,12 @@ This is the push 5 with hugo.
 
 Part of the setup involved:
 
-git submodule add git://github.com/ralphbrooks/ralphbrooks.github.io.git docs
+~~git submodule add git://github.com/ralphbrooks/ralphbrooks.github.io.git docs~~
+```bash
+cd ~/Documents/python/github/notes
+rm -rf docs
+git submodule add -b master https://github.com/ralphbrooks/ralphbrooks.github.io.git docs
+```
 
 This whole thing has the goal of deploying to the github page.
 
