@@ -1,4 +1,3 @@
 [submodule "docs"]
 	path = docs
-	url = https://github.com/ralphbrooks/ralphbrooks.github.io.git
-	branch = master
+	url = git://github.com/ralphbrooks/ralphbrooks.github.io.git

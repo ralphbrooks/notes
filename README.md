@@ -5,7 +5,7 @@ This is the push 5 with hugo.
 
 Part of the setup involved:
 
-git submodule add git://github.com/ralphbrooks/ralphbrooks.github.io.git public
+git submodule add git://github.com/ralphbrooks/ralphbrooks.github.io.git docs
 
 This whole thing has the goal of deploying to the github page.
 
