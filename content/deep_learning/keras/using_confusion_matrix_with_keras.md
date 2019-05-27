@@ -18,7 +18,7 @@ Code would look like the following
 import numpy as np
 from sklearn.metrics import confusion_matrix
 
-model = <keras model> 
+model = <use your favorite keras model here> 
 
 y_pred = model.predict(test_data, test_labels)
 y_pred_max = np.apply_along_axis(lambda x : np.argmax(x) +1, axis =1, arr=y_pred)

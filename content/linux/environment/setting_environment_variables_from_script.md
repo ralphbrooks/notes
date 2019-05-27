@@ -1,6 +1,6 @@
 
 ---
-title: "Setting Environment Variables From Script"
+title: "Setting Environment Variables From A Linux Script"
 author: "Ralph Brooks"
 date: 2019-05-27T12:25:53-04:00
 description: "This describes how to load environment variables from a script"
@@ -8,7 +8,8 @@ type: technical_note
 draft: false
 ---
 
-If you are spinning up different machines, it may be helpful to have environment variables set via script.
+If you are spinning up different machines, it may be helpful to set the environment variables for that machine from a 
+linux script. 
 
 The file might look like
 
