@@ -15,3 +15,10 @@ git submodule add -b master https://github.com/ralphbrooks/ralphbrooks.github.io
 This whole thing has the goal of deploying to the github page.
 
 This is now a clean pull in the mac.
+
+
+
+### Setting up github pages
+
+https://www.namecheap.com/support/knowledgebase/article.aspx/9645/2208/how-do-i-link-my-domain-to-github-pages
+
