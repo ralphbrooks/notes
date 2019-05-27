@@ -22,3 +22,6 @@ This is now a clean pull in the mac.
 
 https://www.namecheap.com/support/knowledgebase/article.aspx/9645/2208/how-do-i-link-my-domain-to-github-pages
 
+deleted CNAME file which originally contained
+
+http://ralphbrooks.github.io
