@@ -2,7 +2,7 @@
 ---
 title: "Setting Environment Variables From Script"
 author: "Ralph Brooks"
-date: 5/19/2019
+date: 2019-05-27T12:25:53-04:00
 description: "This describes how to load environment variables from a script"
 type: technical_note
 draft: false

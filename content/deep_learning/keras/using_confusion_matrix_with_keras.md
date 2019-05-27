@@ -1,7 +1,7 @@
 ---
 title: "Using a confusion matrix within Keras"
 author: "Ralph Brooks"
-date: 5/20/2019
+date: 2019-05-27T12:25:53-04:00
 description: "Using a confusion matrix within Keras"
 type: technical_note
 draft: false
@@ -25,4 +25,3 @@ y_pred_max = np.apply_along_axis(lambda x : np.argmax(x) +1, axis =1, arr=y_pred
 cm = confusion_matrix(test_label, y_pred_max)
 
 ```
-

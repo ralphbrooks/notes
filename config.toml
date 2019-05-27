@@ -1,4 +1,4 @@
-baseURL = "https://ralphbrooks.github.io/"
+baseurl = "https://ralphabrooks.com"
 languageCode = "en-us"
 title = "Ralph Brooks"
 theme = "berbera"
