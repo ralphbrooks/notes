@@ -13,3 +13,4 @@ outputs:
 I am a data scientist and machine learning engineer in Frisco, TX.
 
 -   Twitter: [@ralphbrooks](https://twitter.com/ralphbrooks)
+-   LinkedIn: [https://www.linkedin.com/in/ralphbrooks/](https://www.linkedin.com/in/ralphbrooks/)
