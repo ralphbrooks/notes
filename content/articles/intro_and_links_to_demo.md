@@ -1,8 +1,8 @@
 ---
-title: "Introduction and Links to Demo"
+title: "Introduction and Links to NLP Demo"
 author: "Ralph Brooks"
 date: 2019-05-27T12:25:53-04:00
-description: "Intro to my blog"
+description: "Intro and Links to NLP Demo"
 type: technical_note
 draft: false
 ---
