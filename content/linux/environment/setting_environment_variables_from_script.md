@@ -1,6 +1,6 @@
 
 ---
-title: "Setting Environment Variables From A Linux Script"
+title: "How to Set Environment Variables From A Linux Script"
 author: "Ralph Brooks"
 date: 2019-05-27T12:25:53-04:00
 description: "This describes how to load environment variables from a script"
@@ -8,16 +8,26 @@ type: technical_note
 draft: false
 ---
 
-If you are spinning up different machines, it may be helpful to set the environment variables for that machine from a 
-linux script. 
+If you utilize the cloud, odds are that there has been a time where you spun up a machine and needed to set the environment 
+variables from a linux script.
 
-The file might look like
+The process to do this is:
+
+1) Create a file that contains environment variables that you want to export.
 
 **environ.sh**
 ```bash
 export APIKEY="Sample API key"
 ```
 
-To use this on the spun-up machine, use the dot space command as follows:
+2) Change the permissions of the environment file:
+
+```bash
+chmod +x environ.sh
+```
+
+3) Execute the script with a dot space prefix. 
+
+Use the dot space command as follows:
 
 ```. environ.sh```
