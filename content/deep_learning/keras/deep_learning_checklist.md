@@ -7,14 +7,15 @@ type: technical_note
 draft: false
 ---
 
-[ ] Define the problem
-[ ] Identify a way to reliably measure success against a goal
-[ ] Prepare a validation process that you will use to evaluate models
-[ ] Vectorize the data
-[ ] Develop a model that beats a trivial common sense baseline
-[ ] Refine model architecture
-[ ] Get your model to overfit
+- Define the problem
+- Identify a way to reliably measure success against a goal
+- Prepare a validation process that you will use to evaluate models
+- Vectorize the data
+- Develop a model that beats a trivial common sense baseline
+- Refine model architecture
+- Get your model to overfit
 
 After overfitting use the following to refine model architecture
-[ ] Add regularization (dropout) to the model
-[ ] Downsize the model to use lower capacity
+
+- Add regularization (dropout) to the model
+- Downsize the model to use lower capacity
