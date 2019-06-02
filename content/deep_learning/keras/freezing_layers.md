@@ -14,7 +14,9 @@ To freeze a layer in Keras, use:
 model.layers[0].trainable = False
 ```
 
-This might be done for an Embedding layer in Keras so that you don't forget anything that you 
-have already learned in the model.
+Notes:
 
-* The large changes in gradient from other parts of the model could be disruptive to this part.
+* Typically, the freezing of layers will be done so that weights which are learned in prior stages are not
+forgotten in later layers of the model. 
+* For example, if you have BERT as one part of a Keras TensorFlow model, that layer might need to be frozen so that 
+large changes in gradient that occur during fine tuning do not distrupt the weights that have been learned in BERT. 
