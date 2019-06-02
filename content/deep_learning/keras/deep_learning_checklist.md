@@ -19,3 +19,4 @@ After overfitting use the following to refine model architecture
 
 - Add regularization (dropout) to the model
 - Downsize the model to use lower capacity
+

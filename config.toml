@@ -1,6 +1,6 @@
 baseurl = "https://ralphabrooks.com/"
 languageCode = "en-us"
-title = "Ralph Brooks"
+title = "AI Best Practices"
 theme = "berbera"
 
 pygmentsCodeFences=true
