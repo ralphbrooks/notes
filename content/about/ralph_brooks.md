@@ -25,9 +25,10 @@ I am currently living in Frisco, TX.
 
 #### Current Projects
 
-Currently, I am working on data science as well as building out the infrastructure needed to do distributed deep learning. Recently, I have been using TensorFlow in order to better understand emotion in language.
-Specifically, I have been looking to see how deep learning can "filter out tweets that are not business critical". Work on this has involved everything from examining semi-supervised learning (Stanford's Snorkel research) to 
-building an end to end pipeline to write out the results of different deep learning models into S3. This work has looked at bi-directional LSTMs as well as applications of BERT for transfer learning.
+Currently, I am working on data science as well as building out the infrastructure needed to do distributed deep learning. 
+
+Recently, I have been using TensorFlow in order to better understand emotion in language. Specifically, I have been looking to see how deep learning can "filter out tweets that are not business critical". Work on this has involved everything from examining semi-supervised learning (Stanford's Snorkel research) to 
+building an end to end pipeline to write out the results of different deep learning models into S3. This work has looked at LSTMs as well as applications of BERT for transfer learning.
 
 Additional details regarding my technical expertise can be found in this [tech stack questionairre](https://drive.google.com/drive/folders/1hSFLmMqY0tZqNv0MOyR28SdHCkdOCD1P?usp=sharing)
 
