@@ -38,6 +38,23 @@
         <div class="row">
             <div class="col-sm-12">
                 <div class="card">
+                    <h4 class="card-header">General</h4>
+                    <div class="card-body">
+                        <ul>
+                            {{ range (where .Pages "File.Dir" "in" "/deep_learning/general/").ByTitle }}
+                            <li>
+                                <a href="{{.Permalink}}">{{.Title}}</a>
+                            </li>
+                            {{ end }}
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="card">
                     <h4 class="card-header">Keras</h4>
                     <div class="card-body">
                         <ul>
@@ -52,7 +69,6 @@
             </div>
         </div>
 
-
         <div class="row" id="linux">
             <div class="col-sm-12">
                 <h3 class="category_header">Linux Command Line</h3>
@@ -60,6 +76,29 @@
         </div>
 
         <div class="row">
+            <div class="col-sm-12">
+                <div class="card">
+                    <h4 class="card-header">Environment</h4>
+                    <div class="card-body">
+                        <ul>
+                            {{ range (where .Pages "File.Dir" "in" "/linux/environment/").ByTitle }}
+                            <li>
+                                <a href="{{.Permalink}}">{{.Title}}</a>
+                            </li>
+                            {{ end }}
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row" id="linux_command_line">
+            <div class="col-sm-12">
+                <h3 class="category_header">Linux Command Line</h3>
+            </div>
+        </div>
+
+        <div class="row" id="linux_environment">
             <div class="col-sm-12">
                 <div class="card">
                     <h4 class="card-header">Environment</h4>

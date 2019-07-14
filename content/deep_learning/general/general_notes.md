@@ -1,5 +1,18 @@
 
-* TF has a addons repo which contains things that are not in the core Tensorflow repo. 
+---
+title: "General Notes"
+author: "Ralph Brooks"
+date: 2019-07-14T12:25:53-04:00
+description: "General Notes"
+type: technical_note
+draft: false
+---
+
+The following are a collection of general random notes that I have collected. They are not organized, but may be informative.
+
+
+
+ TF has a addons repo which contains things that are not in the core Tensorflow repo. 
 
 * Tensorflow has a models repo which shows best practices.
 
