@@ -2,7 +2,7 @@
 ---
 title: "Deep Learning Dictionary"
 author: "Ralph Brooks"
-date: 2019-05-27T12:25:53-04:00
+date: 2019-07-14T12:25:53-04:00
 description: "This is a dictionary of deep learning terminology"
 type: technical_note
 draft: false
