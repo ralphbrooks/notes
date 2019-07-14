@@ -20,11 +20,3 @@ After overfitting use the following to refine model architecture
 - Add regularization (dropout) to the model
 - Downsize the model to use lower capacity
 
-
-Use Tensorboard in order to:
-* Use tf.summary.scalar for metrics (such as loss functions and metrics)
-* Write out respective summaries of input data 
-  *  tf.summary.text in order to write out text examples
-  *  Use tf.summary.tensor as a generic catchall for any value
-  
-* Confirm that the appropriate parts of the graph have been moved to the GPU (TensorBoard - Graphs)
