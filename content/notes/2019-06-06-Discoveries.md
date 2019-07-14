@@ -405,3 +405,4 @@ print(dataset3.output_shapes)  # ==> "(10, ((), (100,)))"
 ```
 
 * In eager execution, performance automatically goes to the GPU.  
+
