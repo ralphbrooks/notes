@@ -419,3 +419,21 @@ print(dataset3.output_shapes)  # ==> "(10, ((), (100,)))"
 
 * In eager execution, performance automatically goes to the GPU.  
 
+2019-07-15
+
+2019-07-11
+CONCEPTS REVIEWED:
+tf.estimator tutorial
+tf low level api tutorial
+
+RELEVANT LINKS: 
+https://www.tensorflow.org/guide/custom_estimators
+https://www.tensorflow.org/guide/low_level_intro
+
+
+NOTES:
+* tf.estimator.Estimator is used for the custom estimators
+
+* The Tensorflow pip package includes tensorflow_estimator
+
+* tf.Tensors do NOT have values - they are just handles to elements in the computational graph
