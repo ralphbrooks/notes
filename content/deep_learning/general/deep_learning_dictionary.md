@@ -15,6 +15,9 @@ Discussed in Generative Deep Learning - July 2019 - David Foster - Chapter 1
 **Activations** : These are tne nonlinearities that rae introduced within Dense layers.
 
 * Sigmoid - This is used for multiclass classification (when an item can belong to more than one class ). It is used when you want the values to be between 0 and 1. 
+This is represented as $\frac{1}{1 + e^{-x}}$
+
+
 Discussed in Generative Deep Learning - July 2019 - David Foster - Chapter 2
 
 **Autoregressive Model** : This is a unidirectional model that attempts to predict data from past input. 

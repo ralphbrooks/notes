@@ -1,8 +1,8 @@
 ---
-title: "Freezing a layer in Keras"
+title: "Approaches to Class Imbalance"
 author: "Ralph Brooks"
 date: 2019-06-04T12:25:53-04:00
-description: "Freezing a layer in Keras"
+description: "Approaches to Class Imbalance"
 type: technical_note
 draft: false
 ---
